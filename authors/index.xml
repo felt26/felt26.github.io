@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Xiyuan Tang</title>
-    <link>https://felt26.github.io/authors/</link>
-      <atom:link href="https://felt26.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://xtang.me/authors/</link>
+      <atom:link href="https://xtang.me/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://felt26.github.io/img/icon-192.png</url>
+      <url>https://xtang.me/img/icon-192.png</url>
       <title>Authors</title>
-      <link>https://felt26.github.io/authors/</link>
+      <link>https://xtang.me/authors/</link>
     </image>
     
     <item>
       <title></title>
-      <link>https://felt26.github.io/authors/admin/</link>
+      <link>https://xtang.me/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://felt26.github.io/authors/admin/</guid>
+      <guid>https://xtang.me/authors/admin/</guid>
       <description>&lt;p&gt;Xiyuan Tang is currently a postdoctoral researcher at University of Texas at Austin, co-advised by Prof. Nan Sun and Prof. David Z. Pan. Xiyuan received the B.Sc. degree (Hons.) from the School of Microelectronics, Shanghai Jiao Tong University, Shanghai, China, in 2012, and the M.S. and Ph.D. degree in electrical engineering from The University of Texas at Austin, Austin, TX, USA, in 2014 and 2019 respectively. 
 From 2014 to 2017, he was a Design Engineer with Silicon Laboratories, Austin, TX, where he was involved in the RF receiver design.&lt;/p&gt;
 &lt;p&gt;His current research interests include analog/mixed-signal circuits, intelligent sensors, and ICs for human healthcare.&lt;/p&gt;
