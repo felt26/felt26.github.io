@@ -1,16 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <title>Xiyuan Tang</title>
+    <link>https://felt26.github.io/</link>
+      <atom:link href="https://felt26.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiyuan Tang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
-      <title>Academic</title>
-      <link>/</link>
+      <url>https://felt26.github.io/img/icon-192.png</url>
+      <title>Xiyuan Tang</title>
+      <link>https://felt26.github.io/</link>
     </image>
+    
+    <item>
+      <title>Experiences</title>
+      <link>https://felt26.github.io/experiences/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://felt26.github.io/experiences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://felt26.github.io/pubs/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://felt26.github.io/pubs/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
