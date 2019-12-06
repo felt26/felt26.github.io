@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xiyuan Tang</title>
-    <link>https://xtang.me/authors/admin/</link>
-      <atom:link href="https://xtang.me/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://felt26.github.io/authors/admin/</link>
+      <atom:link href="https://felt26.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Xiyuan Tang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://xtang.me/img/icon-192.png</url>
+      <url>https://felt26.github.io/img/icon-192.png</url>
       <title>Xiyuan Tang</title>
-      <link>https://xtang.me/authors/admin/</link>
+      <link>https://felt26.github.io/authors/admin/</link>
     </image>
     
   </channel>
